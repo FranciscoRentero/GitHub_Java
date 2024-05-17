@@ -197,7 +197,7 @@ public class Ejercicio01 {
 		System.out.println("return; me saca del constructor y esto jamas aparecera");
 		
 	}//cierre de constructor
-	public static int extra() {
+	public static int extra01() {
 		for(int i=10;i<56;i+=2) {
 			if (( i != 16 ) && ( i % 3 != 0)) {
 				System.out.print(i + ", ");
